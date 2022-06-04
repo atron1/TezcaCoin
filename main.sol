@@ -116,11 +116,11 @@ contract ERC20Token is StandardToken {
 
     function ERC20Token(
         ) {
-        balances[msg.sender] = 1000000000;               // Give the creator all initial tokens (100000 for example)
-        totalSupply = 1000000000;                        // Update total supply (100000 for example)
+        balances[msg.sender] = 50000000000;               // Give the creator all initial tokens (100000 for example)
+        totalSupply = 50000000000;                        // Update total supply (100000 for example)
         name = "TEZCA";                                   // Set the name for display purposes
-        decimals = 2;                            // Amount of decimals for display purposes
-        symbol = "TEZ";                               // Set the symbol for display purposes
+        decimals = 2;                                     // Amount of decimals for display purposes
+        symbol = "TEZ";                                   // Set the symbol for display purposes
     }
 
     /* Approves and then calls the receiving contract */
