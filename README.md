@@ -1,13 +1,12 @@
 # TezcaCoin
 White Paper
 
-TEZCA Coin is a solution to the world’s energy needs by providing sustainable and economical form of exchange for R&D projects such as SP11R. 
+TEZCA Coin is a financial solution to the world's energy needs by proividing financial options for solar installations.
 
 •	ERC20 Tokens
-•	Initial supply: 500M
-•	Initial bid offer: 0.0001 USD/TEZCA
 •	Fixed supply
-Founder’s Margin: 30%
-•	Circulation Margin: 70%
-•	Number of decimal places: 18 (pretty standard for an ERC20 token)
-•	Available on PancakeSwap
+•	Initial supply: 500M
+• Circulation supply: 400M
+• Treasury supply: 100M
+•	Initial bid offer: 0.000001 USD/TEZCA
+•	Number of decimal places: 2
